@@ -27,7 +27,7 @@ const styles = StyleSheet.create({
       marginTop: 10,
       paddingBottom: 5,
       width: '100%'
-  },
+    },
     text: {
         fontSize: 18,
         lineHeight: 21,
@@ -35,8 +35,8 @@ const styles = StyleSheet.create({
         letterSpacing: 0.25,
         color: 'white',
         textTransform: 'uppercase'
-      },
-      loginButtonSection: {
+    },
+    loginButtonSection: {
         width: '100%',
         // height: '30%',
         marginTop: 30,
@@ -51,7 +51,6 @@ const styles = StyleSheet.create({
        alignItems: 'center',  //r & l
        width: '70%',
        borderRadius: 10,
-
      }
 })
 
