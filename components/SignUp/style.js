@@ -28,15 +28,15 @@ const styles = StyleSheet.create({
         letterSpacing: 0.25,
         color: 'white',
         textTransform: 'uppercase'
-      },
+    },
     loginButtonSection: {
         width: '100%',
         // height: '30%',
         marginTop: 30,
         justifyContent: 'center',
         alignItems: 'center'
-     },
-     loginButton: {
+    },
+    loginButton: {
        backgroundColor: '#06baab',
        color: 'white',
        height: 35,
@@ -44,7 +44,6 @@ const styles = StyleSheet.create({
        alignItems: 'center',  //r & l
        width: '70%',
        borderRadius: 10,
-
      }
 })
 
